@@ -1,5 +1,10 @@
 {
+  "name": "tailwindcss-vite-starter",
+  "version": "0.1.0",
+  "description": "Tailwind CSS + Vite setup - Starter Files",
   "license": "MIT",
+  "author": "hdhilip98",
+  "repository": "https://github.com/hdhilip98/tailwindcss-vite-starter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

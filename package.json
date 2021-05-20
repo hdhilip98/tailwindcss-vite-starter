@@ -1,7 +1,14 @@
 {
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.15",
-    "tailwindcss": "^2.1.2"
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.3.3"
   }
 }
